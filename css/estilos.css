@@ -1,0 +1,219 @@
+/*Fuentes*/
+@import url("https://use.typekit.net/ttp3oek.css");
+
+/*CSS General*/
+body{
+    font-family: fairplex-narrow, serif;
+}
+
+.bg-verde{
+    background-color: #00784C;
+}
+
+.bg-rosa{
+    background-color: #E94D75;
+}
+
+.rosa{
+    color:#E94D75;
+}
+
+.bg-celeste{
+    background-color: #F2F9F6;
+}
+
+.bg-rosita{
+    background-color: #e5b8ac;
+}
+
+.t18{
+    font-size: 18px;
+}
+
+.t20{
+    font-size: 20px;
+}
+
+.t25{
+    font-size: 25px;
+}
+
+.der{
+    justify-content: right;
+}
+
+.izq{
+    justify-content: left;
+}
+div#fotoinicialsn {
+    color: white;
+    background-color: #e5b8ac;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size:contain;
+}
+
+/*Inicio CSS Nav*/
+
+nav#contnav {
+    background-color: #F2F9F6;
+    padding-top:0%;
+    padding-bottom: 0%;
+}
+
+div#logo{
+background-color: #F2F9F6;
+}
+
+
+/*Fin CSS Nav*/
+
+/*Inicio CSS Footer*/
+#footer{
+    background-color: #F2F9F6;
+}
+
+button#footer{
+    background-color: #F2F9F6;
+}
+
+div#footer{
+    background-color: #F2F9F6;
+}
+p#textoverde {
+    color: #00784C;
+    font-size: 15px;
+}
+
+div#redes{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+/*Fin CSS Footer*/
+
+.monarcha{
+font-family: monarcha, serif;
+font-weight: 700px;
+font-size: 50px;
+font-style: normal;
+}
+
+.monarchah2{
+font-family: monarcha, serif;
+font-weight: 700px;
+font-size: 35px;
+font-style: normal;
+}
+
+.monarchat20{
+    font-family: monarcha, serif;
+    font-weight: 700px;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.monarchat25{
+    font-family: monarcha, serif;
+    font-weight: 700px;
+    font-size: 25px;
+    font-style: normal;
+}
+.monarchat18{
+    font-family: monarcha, serif;
+    font-weight: 700px;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.boton_1{
+    background-color: #00784C;
+    color: #fff;
+}
+
+.boton_2{
+    background-color: #E94D75;
+    color: #fff;
+}
+/*Fin CSS General*/
+
+/*CSS Especifico*/
+/*CSS Inicio*/
+div#imagen1 {
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color: #e5b8ac;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size:contain;
+}
+
+
+p#bolsadfn{
+    font-size: 20px;
+}
+
+section#elmejorcafe {
+    background-color: #F2F9F6;
+}
+
+section#productosdestacados {
+    background-color: #F9ECE2;
+}
+
+img#imagen2 {
+    border-radius: 10%;
+}
+
+img#imagen3 {
+    border-radius: 30%;
+}
+
+div#card{
+    background-color: #F9ECE2;
+    border-color: #F9ECE2;
+}
+
+div#logohechoconamor{
+    justify-content: center;
+}
+
+/*CSS Suscripción*/
+div#fotoinicialsub {
+    color: white;
+    background-color: #c4c8ad;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size:contain;
+}
+
+div#suscribirme {
+    justify-content: center;
+}
+
+div#blanco{
+    color:#fff
+}
+
+/*CSS Productos*/
+button#carrito{
+    border-style: none;
+    background-color: #F2F9F6;
+}
+
+.carrito2{
+    display: none;
+    
+}
+
+div#review{
+    justify-content: center;
+}
+
+/*CSS Contacto*/
+div#mapa{
+    display: content;
+}
+iframe#mapa{
+    width:100vh;
+}
