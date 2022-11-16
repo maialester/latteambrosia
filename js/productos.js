@@ -92,12 +92,12 @@ const accesorios = [];
 
 accesorios[0] = [];
 accesorios[0]['Nombre'] = 'Tote Bag Green';
-accesorios[0]['Precio'] = 2500;
+accesorios[0]['Precio'] = 1500;
 accesorios[0]['Imagen'] = 'tote-1.jpg';
 
 accesorios[1] = [];
 accesorios[1]['Nombre'] = 'Tote Bag Pink';
-accesorios[1]['Precio'] = 2000;
+accesorios[1]['Precio'] = 1500;
 accesorios[1]['Imagen'] = 'tote-2.jpg';
 
 accesorios[2] = [];
@@ -112,27 +112,27 @@ accesorios[3]['Imagen'] = 'taza.jpg';
 
 accesorios[4] = [];
 accesorios[4]['Nombre'] = 'Mug Green';
-accesorios[4]['Precio'] = 1500;
+accesorios[4]['Precio'] = 2500;
 accesorios[4]['Imagen'] = 'taza-2.jpg';
 
 accesorios[5] = [];
 accesorios[5]['Nombre'] = 'Mug Blue';
-accesorios[5]['Precio'] = 2000;
+accesorios[5]['Precio'] = 2500;
 accesorios[5]['Imagen'] = 'taza-3.jpg';
 
 accesorios[6] = [];
 accesorios[6]['Nombre'] = 'Mug White';
-accesorios[6]['Precio'] = 2000;
+accesorios[6]['Precio'] = 2500;
 accesorios[6]['Imagen'] = 'taza-4.jpg';
 
 accesorios[7] = [];
 accesorios[7]['Nombre'] = 'Cup To-Go';
-accesorios[7]['Precio'] = 2000;
+accesorios[7]['Precio'] = 3500;
 accesorios[7]['Imagen'] = 'vaso.jpg';
 
 accesorios[8] = [];
 accesorios[8]['Nombre'] = 'Cup';
-accesorios[8]['Precio'] = 2500;
+accesorios[8]['Precio'] = 2000;
 accesorios[8]['Imagen'] = 'vaso-2.jpg';
 
 accesorios[9] = [];
@@ -142,10 +142,20 @@ accesorios[9]['Imagen'] = 'straw.jpg';
 
 accesorios[10] = [];
 accesorios[10]['Nombre'] = 'Cafetera';
-accesorios[10]['Precio'] = 1500;
+accesorios[10]['Precio'] = 15.000;
 accesorios[10]['Imagen'] = 'cafetera.jpg';
 
 accesorios[11] = [];
 accesorios[11]['Nombre'] = 'Cafetera Eléctrica';
-accesorios[11]['Precio'] = 2500;
+accesorios[11]['Precio'] = 65.000;
 accesorios[11]['Imagen'] = 'cafetera-electrica.jpg';
+
+accesorios[12] = [];
+accesorios[12]['Nombre'] = 'Gift Card';
+accesorios[12]['Precio'] = 2500;
+accesorios[12]['Imagen'] = 'gift-card.png';
+
+accesorios[13] = [];
+accesorios[13]['Nombre'] = 'Gift Card';
+accesorios[13]['Precio'] = 4500;
+accesorios[13]['Imagen'] = 'gift-card-2.png';
